@@ -24,9 +24,12 @@ namespace Bars
 
 
             // TODO;
-            Console.WriteLine("f1 width = {0}", f1.Lungime);
 
-            Console.WriteLine("f1 height = {0}", f1.Inaltime);
+            // 2
+
+            //Console.WriteLine("f1 width = {0}", f1.Lungime);
+
+            //Console.WriteLine("f1 height = {0}", f1.Inaltime);
 
 
             // TODO Ladder
